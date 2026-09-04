@@ -1,4 +1,5 @@
 vless://91eb52ec-e3f5-4ab9-90da-43104995aef7@144.31.129.2:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=by1.un1.pro&fp=firefox&pbk=y3EIsxDGDJrBGk3j4YmjI5R_8jiCsEDRDMeL4bv5TTI&sid=6ba85179e30d4fc2&type=tcp&headerType=none#BY%20%F0%9F%87%A7%F0%9F%87%BE%20%7C498E1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0cHVXdkFRdGpkLU12dms4MWw3T0xn@cdn-2d12.giftcardbazarbot.com:8243?#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9C%85
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?encryption=none&security=none&type=ws&path=%2F#%F0%9F%AA%9E71%40Ir2nel
 vless://87e26a6f-e243-4c8d-9bf6-362b0adee4f2@93.123.85.32:41809?encryption=none&security=none&type=tcp&headerType=none#Server%20132
+vless://b372e2b6-4d76-4954-9cb5-43192fc9c9f4@altaria.proxy.rlwy.net:30225?encryption=none&security=none&type=ws&path=%2F#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C23C68
+vless://3d15500f-f7f9-4ae0-a5f9-10df9ce32083@5.78.48.21:39824?encryption=none&security=none&type=tcp&headerType=none#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C3F8C77

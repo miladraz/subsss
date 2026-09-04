@@ -1,6 +1,4 @@
-hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?sni=cdn77.dmtr.ru&insecure=1&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze#%C2%B2%E2%81%B9%E2%81%B0
 vless://91eb52ec-e3f5-4ab9-90da-43104995aef7@144.31.129.2:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=by1.un1.pro&fp=firefox&pbk=y3EIsxDGDJrBGk3j4YmjI5R_8jiCsEDRDMeL4bv5TTI&sid=6ba85179e30d4fc2&type=tcp&headerType=none#BY%20%F0%9F%87%A7%F0%9F%87%BE%20%7C498E1
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@95.85.248.50:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eu-west.cendora.ru&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&sid=dd3ff38418d29d22&type=tcp&headerType=none#NL%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20005EC7
-vless://4f54572a-b852-4da3-8823-0ddccc60b5d8@104.21.51.189:8880?encryption=none&security=none&type=ws&host=icy-snowflake-1f56.147-1ea.workers.dev&path=%2F#CA%20%F0%9F%87%A8%F0%9F%87%A6%20%7C%20FBBF8C
-vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@64.49.12.158:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=kola1.api3-max.ru&fp=firefox&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C550057
-vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@217.179.6.206:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=momo5.api3-max.ru&fp=firefox&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#FR%20%F0%9F%87%AB%F0%9F%87%B7%20%7CF7506B
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0cHVXdkFRdGpkLU12dms4MWw3T0xn@cdn-2d12.giftcardbazarbot.com:8243?#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9C%85
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?encryption=none&security=none&type=ws&path=%2F#%F0%9F%AA%9E71%40Ir2nel
+vless://87e26a6f-e243-4c8d-9bf6-362b0adee4f2@93.123.85.32:41809?encryption=none&security=none&type=tcp&headerType=none#Server%20132

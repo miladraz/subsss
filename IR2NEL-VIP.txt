@@ -5,3 +5,8 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.13:443?security=tls&sni=blo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTmZlTENOM1h6WWdMRlNBV29fZnhPbDRIQzFnTncwVg@185.4.115.147:8044?#NL%20%F0%9F%87%B3%F0%9F%87%B1%2005A8
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.142:443?security=tls&sni=cdn.unlockyourfuturefindyourperfectcareer.com&type=tcp&headerType=none#US%20%F0%9F%87%BA%F0%9F%87%B8%2073E29E
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.171:443?security=tls&sni=learn.unlockyourfuturefindyourperfectcareer.com&type=tcp&headerType=none#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C684C69
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999?#%7C6xx84C69
+vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.136:8443?encryption=none&security=reality&sni=play.googleapis.com&fp=chrome&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&sid=974f7f8f&spx=%2F&type=tcp&headerType=none#%7Cnn5s4C69
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999?#%7Ccccc6d555
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999?#%7C2C69117%20
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999?#%7Cxxxm23
